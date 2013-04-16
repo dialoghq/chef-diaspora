@@ -1,0 +1,8 @@
+*/*file
+*/*file.lock
+*/bin
+*/bundle
+*/chefignore
+*/cookbooks
+*/vendor
+
